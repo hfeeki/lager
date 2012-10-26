@@ -1,7 +1,7 @@
 .eunit
 *.beam
-ebin
 doc
+ebin/lager.app
 *.swp
 erl_crash.dump
 .project
